@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <group>
+       <property name="webapp.base.dir" defaultValue="" description="应用（源码）的根目录所在的目录"/>
+        <property name="tomcat.home" defaultValue="" description="机器上的tomcat所在的目录"/>
+        <property name="webapp.name" defaultValue="" description="打成war包以后的应用名"/>
+        <property name="webapp.doc.base" defaultValue="" description="targe目录下的war的目录"/>
+    </group>
+    <script>
+        <!-- tomcat 的配置 -->
+        <generate template="apachetl.sh.vm" destfile="apache/bin/apachetl.sh" charset="UTF-8"/>
+        <generate template="server.xml.vm" destfile="apache/conf/server.xml" charset="UTF-8"/>
+   </script>
+</config>

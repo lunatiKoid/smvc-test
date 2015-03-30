@@ -1,0 +1,16 @@
+#!/bin/bash
+
+cd ${webapp_base_dir}/control/apache/webapps
+echo '${webapp_base_dir}/control/apache/webapps'
+rm -rf *
+ls
+cd ${webapp_base_dir}/control/apache/works
+rm -rf *
+ls
+export CATALINA_BASE="${webapp_base_dir}/control/apache"
+sh ${tomcat_home}/bin/catalina.sh $@
+
+echo $@
+echo $CATALINA_BASE
+
+

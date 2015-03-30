@@ -1,0 +1,24 @@
+Mar 22, 2015 11:07:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing logback system
+Mar 22, 2015 11:07:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
+Mar 22, 2015 11:07:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring sub WebApplicationContext: home
+Mar 22, 2015 11:07:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring sub WebApplicationContext: store
+Mar 22, 2015 11:07:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring sub WebApplicationContext: user
+Mar 22, 2015 11:07:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: WebxComponents: initialization completed
+Mar 22, 2015 11:07:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing filter: mdc
+Mar 22, 2015 11:07:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: SetLoggingContextFilter - mdc: initialization completed
+Mar 22, 2015 11:07:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing filter: webx
+Mar 22, 2015 11:07:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: WebxFrameworkFilter - webx: initialization completed
+Mar 22, 2015 11:09:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Closing Spring root WebApplicationContext
+Mar 22, 2015 11:09:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Shutting down log system
