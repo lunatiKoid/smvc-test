@@ -2,3 +2,27 @@ Mar 30, 2015 7:17:28 PM org.apache.catalina.core.ApplicationContext log
 INFO: Initializing Spring FrameworkServlet 'mvc-dispatcher'
 Mar 30, 2015 7:18:14 PM org.apache.catalina.core.ApplicationContext log
 INFO: Destroying Spring FrameworkServlet 'mvc-dispatcher'
+Mar 30, 2015 9:01:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'mvc-dispatcher'
+Mar 30, 2015 9:04:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'mvc-dispatcher'
+Mar 30, 2015 9:07:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'mvc-dispatcher'
+Mar 30, 2015 9:22:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'mvc-dispatcher'
+Mar 30, 2015 9:46:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'mvc-dispatcher'
+Mar 30, 2015 9:49:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'mvc-dispatcher'
+Mar 30, 2015 9:49:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'mvc-dispatcher'
+Mar 30, 2015 9:50:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'mvc-dispatcher'
+Mar 30, 2015 9:51:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'mvc-dispatcher'
+Mar 30, 2015 9:52:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'mvc-dispatcher'
+Mar 30, 2015 9:53:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'mvc-dispatcher'
+Mar 30, 2015 11:22:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'mvc-dispatcher'
