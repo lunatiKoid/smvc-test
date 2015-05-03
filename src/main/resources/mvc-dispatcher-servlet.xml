@@ -12,4 +12,14 @@
         <property name="suffix" value=".jsp"/>
     </bean>
 
+    <!--&lt;!&ndash; 创建SqlSessionFactory，同时指定数据源 &ndash;&gt;-->
+    <!--<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">-->
+        <!--<property name="configLocation" value="classpath:configuration.xml" />-->
+        <!--<property name="dataSource" ref="dataSource" />-->
+    <!--</bean>-->
+    <!--&lt;!&ndash; 自动创建mybatis的代理类的配置 &ndash;&gt;-->
+    <!--<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">-->
+        <!--<property name="basePackage" value="com.ray.model.mapper" />-->
+    <!--</bean>-->
+
 </beans>
